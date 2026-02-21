@@ -1,0 +1,22 @@
+# 导航栏：每项为 title（显示文字）和 url（锚点或链接）
+# 锚点需与 about.md 里标题自动生成的 id 一致（如 #-publications）
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Internships"
+    url: "/#-internships"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+# 若恢复 News / Honors / Invited Talks 区块，可取消下面注释并删掉上面不需要的项
+#  - title: "News"
+#    url: "/#-news"
+#  - title: "Honors and Awards"
+#    url: "/#-honors-and-awards"
+#  - title: "Invited Talks"
+#    url: "/#-invited-talks"
