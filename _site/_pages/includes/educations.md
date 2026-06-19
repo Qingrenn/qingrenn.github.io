@@ -1,2 +1,0 @@
-- *2021.09 – 2024.04*, **Tianjin University**, Tianjin, China. M.S. in Electronics and Information Engineering.
-- *2017.09 – 2021.06*, **Wuhan University of Technology**, Wuhan, China. B.E. in Communication Engineering.

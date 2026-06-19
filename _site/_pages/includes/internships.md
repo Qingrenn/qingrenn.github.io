@@ -1,6 +1,0 @@
-- *2025.04 – 2025.08*, **Shanghai Artificial Intelligence Laboratory**, Shanghai, China. Intern. 
-    - Supervised by Dr. Chao Zhang and Dr. Wen Wu.
-- *2024.12 – 2025.04*, **Hong Kong Baptist University**, Hong Kong, China. Research Assistant.
-    - Supervised by Dr. Jun Qi.
-- *2024.04 – 2024.12*, **Hong Kong University of Science and Technology (Guangzhou)**, Guangzhou, China. Research Assistant. 
-    - Supervised by Dr. Yuxuan Liang, Dr. Ming Jin and Prof. Shirui Pan.
