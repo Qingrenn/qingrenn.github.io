@@ -1,5 +1,20 @@
 For more information, see my [Google Scholar](https://scholar.google.com/citations?user=NYMYQ5cAAAAJ&hl=en).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/TimeSage-EV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments**](https://arxiv.org/abs/2606.01498)
+
+**Qingren Yao**\*, Yaxuan Kong*, Yuqi Nie, Yichen Li, Stefan Zohren, Anna Vettoruzzo, Qingsong Wen, Ming Jin^, Joaquin Vanschoren^
+
+Preprint, 2026
+
+[[Paper]](https://arxiv.org/abs/2608.14270) [[Dataset]](https://huggingface.co/datasets/TimeSage-Series/TimeSage-EV) [[Code]](https://github.com/TimeSage-Series/TimeSage-EV)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/TimeSage-MT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
