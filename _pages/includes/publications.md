@@ -3,7 +3,7 @@ For more information, see my [Google Scholar](https://scholar.google.com/citatio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/TimeSage-EV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments**](https://arxiv.org/abs/2606.01498)
+[**TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments**](https://arxiv.org/abs/2608.14270)
 
 **Qingren Yao**\*, Yaxuan Kong*, Yuqi Nie, Yichen Li, Stefan Zohren, Anna Vettoruzzo, Qingsong Wen, Ming Jin^, Joaquin Vanschoren^
 
