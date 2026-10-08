@@ -7,7 +7,7 @@ For more information, see my [Google Scholar](https://scholar.google.com/citatio
 
 **Qingren Yao**\*, Yaxuan Kong*, Yuqi Nie, Yichen Li, Stefan Zohren, Anna Vettoruzzo, Qingsong Wen, Ming Jin^, Joaquin Vanschoren^
 
-Preprint, 2026
+Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, Findings, 2026. <font color="red">CORE A*</font>.
 
 [[Paper]](https://arxiv.org/abs/2608.14270) [[Dataset]](https://huggingface.co/datasets/TimeSage-Series/TimeSage-EV) [[Code]](https://github.com/TimeSage-Series/TimeSage-EV)
 
