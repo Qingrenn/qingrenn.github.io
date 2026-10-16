@@ -1,6 +1,6 @@
 For more information, see my [Google Scholar](https://scholar.google.com/citations?user=NYMYQ5cAAAAJ&hl=en).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/TimeSage-EV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pub/TimeSage-EV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments**](https://arxiv.org/abs/2608.14270)
@@ -29,7 +29,7 @@ Preprint, 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/pub/eidos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2027</div><img src='images/pub/eidos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**EIDOS: Latent-Space Predictive Learning for Time Series Foundation Models**](https://arxiv.org/abs/2602.14024)
