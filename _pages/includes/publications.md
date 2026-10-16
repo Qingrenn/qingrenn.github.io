@@ -36,7 +36,7 @@ Preprint, 2026
 
 Xinxing Zhou, **Qingren Yao**, Yiji Zhao, Chenghao Liu, Flora Salim, Xiaojie Yuan, Yanlong Wen^, Ming Jin^
 
-Preprint, 2026
+International Conference on Very Large Data Bases,**(VLDB)**, 2026. <font color="red">CORE A*</font>.
 
 [[Paper]](https://arxiv.org/abs/2602.14024)
 
